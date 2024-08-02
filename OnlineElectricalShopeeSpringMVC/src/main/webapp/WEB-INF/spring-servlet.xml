@@ -66,9 +66,9 @@
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName"
 			value="com.mysql.cj.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://localhost:3306/oes" />
-		<property name="username" value="root" />
-		<property name="password" value="Sunil123" />
+		<property name="url" value="jdbc:mysql://sql5.freesqldatabase.com:3306/sql5723498" />
+		<property name="username" value="sql5723498" />
+		<property name="password" value="NneGXiu5xd" />
 	</bean>
 
 
